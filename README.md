@@ -8,7 +8,7 @@
   </div>
   
  <div>
-    <a href='mail: joaoovictor.21@gmail.com'><img src="https://img.icons8.com/plasticine/100/000000/gmail-new.png" target='_blank' width='50' height='50'></a>
+    <a href='mail: contatojoaoovictor.21@gmail.com'><img src="https://img.icons8.com/plasticine/100/000000/gmail-new.png" target='_blank' width='50' height='50'></a>
     <a href='https://www.linkedin.com/in/jo%C3%A3o-victor-vieira-2312b8141/'><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" target='_blank' width='50' height='50'/></a>
   </div>
   
