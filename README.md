@@ -15,8 +15,11 @@
   ##
   
 <div style='display: inline_block'>
-    <img alt='Logo-python' width='50' height='50' src="https://img.icons8.com/dusk/64/000000/python.png"/>
-    <img alt='Logo-html' width='50' height='50' src="https://img.icons8.com/dusk/64/fa314a/html-5.png"/>
-    <img alt='Logo-js' width='50' height='50' src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/>
-    <img alt='Logo-css' width='50' height='50' src="https://img.icons8.com/dusk/64/000000/css3.png"/>
+  <br>
+  <a href='https://github.com/Jvictorvieira' align='center'>
+    <img align='center' alt='Logo-python' width='50' height='50' src="https://img.icons8.com/dusk/64/000000/python.png"/>
+    <img align='center' alt='Logo-html' width='50' height='50' src="https://img.icons8.com/dusk/64/fa314a/html-5.png"/>
+    <img align='center' alt='Logo-js' width='50' height='50' src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/>
+    <img align='center' alt='Logo-css' width='50' height='50' src="https://img.icons8.com/dusk/64/000000/css3.png"/>
+  </a>
 </div>
