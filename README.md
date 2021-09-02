@@ -2,7 +2,7 @@
 
 
 <div class='container'>
-  <a href='https://github.com/Jvictorvieira' style='text-decoration: none'>
+  <a href='https://github.com/Jvictorvieira'>
   <img height='160em' src='https://github-readme-stats.vercel.app/api?username=Jvictorvieira&show_icons=true&theme=calm'/>
   <img height='160em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Jvictorvieira&layout=compact&theme=calm'/>
   </div>
